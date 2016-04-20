@@ -1,14 +1,14 @@
-## Musical Penguins - 45 (Forensics) ##
-#### Writeup by cabrody #####
+## Musical Penguins - 45 (Forensics)
+#### Writeup by cabrody
 Created: 4-18-16
 
-### Problem ###
+### Problem
 This file is a complete mystery to me, I've never seen notes like these!
 
-### Hint ###
+### Hint
 Morgan Freeman and Kevin Spacey would have fun with this one!
 
-## Answer ##
+## Answer
 After researching the file type that the given file was, I downloaded the required program to view it properly
 and was able to see that it was a piece of sheet music with only two alternating notes, in three-measure segments,
 each separated by a full measure of rest.  I did some research on the hint, and found that Morgan Freeman and
@@ -22,6 +22,6 @@ one added to the digit.  For example, if a measure read EECCCC, that would denot
 of these measures into a number in base 7, I converted each to base 10, and then to ASCII, giving me the flag.
  
  
- ### Flag ###
+ ### Flag
 
 `sctf{1_u53d_t0_m4k3_mu51c_w1th_th15_4ll_th3_t1m3}`
