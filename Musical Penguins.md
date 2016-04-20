@@ -25,5 +25,3 @@ of these measures into a number in base 7, I converted each to base 10, and then
  ### Flag
 
 `sctf{1_u53d_t0_m4k3_mu51c_w1th_th15_4ll_th3_t1m3}`
-
-**aa**
